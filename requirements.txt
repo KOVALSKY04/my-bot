@@ -21,7 +21,7 @@ pyowm==2.10.0
 pyTelegramBotAPI==3.6.6
 python-telegram-bot==12.2.0
 pywin32-ctypes==0.2.0
-requests==2.7.0
+requests==2.20.0
 six==1.12.0
 telebot==0.0.3
 tornado==6.0.3
